@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aparnasrivastava92
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Node js
+- 👀 I’m interested in Full Stack Developer.
+- 🌱 I’m currently cloud computing.
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me
 - aparnasrivastava3292@gmail.com
