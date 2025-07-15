@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aparnasrivastava92
-- 👀 I’m interested in Full Stack Developer.
+- 👀 I’m interested in Full Stack Developer,Web Developer 
 - 🌱 I’m currently cloud computing.
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me
